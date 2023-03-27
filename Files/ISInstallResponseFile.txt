@@ -1,0 +1,9 @@
+wMHomeDirectory=/opt/softwareag
+installType=IS
+features=IS
+is.install.dir=/opt/softwareag/IntegrationServer
+createShortcuts=false
+disableUsageReporting=true
+createDesktopIcon=false
+installAsService=false
+jvm.type=IBM
